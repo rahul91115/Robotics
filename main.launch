@@ -1,0 +1,5 @@
+<launch>
+<node pkg = "project" name = "laserscan" type = "main.py" output = "screen">
+
+</node>
+</launch>
