@@ -1,1 +1,2 @@
 # Robotics
+For simulating robot path planning and obstacle avoidance with a TurtleBot3 Burger in a ROS (Robot Operating System) environment, I worked within a framework that provides the libraries and tools necessary for robot simulation and control. Python serves as a flexible programming language for scripting these tasks, while Docker can encapsulate the ROS environment for ease of setup and deployment. This scenario involves a mix of simulation for testing your algorithms and real-time operation on TurtleBot3 hardware.
